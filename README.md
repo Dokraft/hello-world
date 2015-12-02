@@ -6,4 +6,4 @@ Le principe est basé sur celui du petit bac classique. Rappel des règles : Une
 
 #### Les points :
 
-    Vous marquez 1 point par bonne réponse. Au bout de cinq bonnes réponses d'affiliées, vous passez un palier et vous marquez deux points par mot correct, trois points pour 15 mots à la suite, etc... Sachant que lorsque vous commettez une erreur, vous redescendez d'un palier. - Points combo : Toutes les 5 bonnes réponses à la suite, vous gagnez le "combo" correspondant au nombre de bonnes réponses (exemple : 10 bonnes réponses à la suite = 10 points), et cela quelque soit le niveau.
+Vous marquez 1 point par bonne réponse. Au bout de cinq bonnes réponses d'affiliées, vous passez un palier et vous marquez deux points par mot correct, trois points pour 15 mots à la suite, etc... Sachant que lorsque vous commettez une erreur, vous redescendez d'un palier. - Points combo : Toutes les 5 bonnes réponses à la suite, vous gagnez le "combo" correspondant au nombre de bonnes réponses (exemple : 10 bonnes réponses à la suite = 10 points), et cela quelque soit le niveau.
